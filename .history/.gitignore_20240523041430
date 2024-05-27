@@ -10,3 +10,5 @@
 /libcity/log/*
 /libcity/model/*/__pycache__
 /libcity/data/dataset/*/__pycache__
+/raw_data/SZ_TAXI/*
+/raw_data/NYCTAXI202004-202006_OD/*
