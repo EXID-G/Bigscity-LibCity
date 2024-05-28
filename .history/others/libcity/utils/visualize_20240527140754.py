@@ -9,7 +9,6 @@ class VisHelper:
 
         self.config = _config
         self.raw_path = './raw_data/'
-        # self.raw_path = '../!mywork/'
         self.dataset = _config.get("dataset", "")
         self.save_path = _config.get("save_path", "./visualized_data/")
 
