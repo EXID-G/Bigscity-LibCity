@@ -11,4 +11,4 @@
 /libcity/model/*/__pycache__
 /libcity/data/dataset/*/__pycache__
 
-/!mywork/raw_data/
+/!mywork/data/raw_data
